@@ -111,7 +111,7 @@ let generateDetailsCard = async (pokemonDetails) => {
   <div class="detail-types">
     ${detailsCard.types.map((type) => `
     <div class="detail-type">
-      <img alt="${type}" title="${type}" src="/assets/images/type-icons/${type}.svg">
+      <img alt="${type}" title="${type}" src="assets/images/type-icons/${type}.svg">
       <p>${type}</p>
     </div>
     `).join('')}
