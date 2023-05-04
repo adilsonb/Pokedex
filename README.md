@@ -51,7 +51,7 @@ Currently up to 1281 Pokémons can be loaded, displaying the image, type, and so
 
 ## Preview ##
 
-You can preview the project here: [Pokedex](https://adilsonb.github.io/pokedex/ "Pokedex")
+You can preview the project here: [Pokedex](https://adilsonb.github.io/Pokedex/ "Pokedex")
 
 ## Technologies ##
 
