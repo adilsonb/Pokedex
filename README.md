@@ -1,6 +1,6 @@
-<div align="center" id="top"> 
-<img alt="Pokedex" src="https://i.imgur.com/zmrW9NT.gif">
-</div>
+<div align="center" id="top"></div>
+
+![](https://i.imgur.com/zmrW9NT.gif)
 
 <h1 align="center">Pokedex</h1>
 
@@ -52,7 +52,7 @@ The following tools were used in this project:
 
 :heavy_check_mark: HTML;\
 :heavy_check_mark: CSS;\
-:heavy_check_mark: Javascript;\
+:heavy_check_mark: Javascript;
 
 ## Requirements ##
 
