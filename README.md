@@ -24,7 +24,7 @@
   <a href="#About">About</a> &#xa0; | &#xa0; 
   <a href="#Features">Features</a> &#xa0; | &#xa0;
    <a href="#Screenshots">Screenshots</a> &#xa0; | &#xa0;
-   <a href="#Live Preview">Live Preview</a> &#xa0; | &#xa0;
+   <a href="#Preview">Preview</a> &#xa0; | &#xa0;
    <a href="#Technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#Requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#Starting">Starting</a> &#xa0; | &#xa0;
@@ -49,7 +49,7 @@ Currently up to 1281 Pokémons can be loaded, displaying the image, type, and so
 
 ![App Screenshot](https://i.imgur.com/JYGs1Vh.gif)
 
-## Live Preview ##
+## Preview ##
 
 You can preview the project here: [Pokedex](https://adilsonb.github.io/pokedex/ "Pokedex")
 
