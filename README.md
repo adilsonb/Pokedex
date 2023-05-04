@@ -1,6 +1,5 @@
-<div align="center" id="top">
+<div align="center" id="top"></div>
 ![App Screenshot](https://i.imgur.com/BzXQ8d5.png)
-</div>
 
 <h1 align="center">Pokedex</h1>
 
