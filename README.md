@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-![](https://i.imgur.com/zmrW9NT.gif)
+<img alt="Pokedex" src="https://i.imgur.com/zmrW9NT.gif">
 </div>
 
 <h1 align="center">Pokedex</h1>
@@ -20,18 +20,11 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/adilsonb/pokedex?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Pokedex 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Screenshots</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -47,7 +40,13 @@ This is a personal challenge to create a responsive mini Pokedex project using H
 
 Currently up to 1281 Pokémons can be loaded, displaying the image, type, and some of the main details of the selected Pokémon.
 
-## :rocket: Technologies ##
+## Screenshots  ##
+
+![App Screenshot](https://i.imgur.com/BzXQ8d5.png)
+
+![App Screenshot](https://i.imgur.com/PMxSs80.png)
+
+## Technologies ##
 
 The following tools were used in this project:
 
@@ -55,11 +54,11 @@ The following tools were used in this project:
 :heavy_check_mark: CSS;\
 :heavy_check_mark: Javascript;\
 
-## :white_check_mark: Requirements ##
+## Requirements ##
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## :checkered_flag: Starting ##
+## Starting ##
 
 ```bash
 # Clone this project
@@ -77,7 +76,7 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: License ##
+## License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](License) file.
 
