@@ -21,22 +21,23 @@
 </p>
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Screenshots</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="#About">About</a> &#xa0; | &#xa0; 
+  <a href="#Features">Features</a> &#xa0; | &#xa0;
+   <a href="#Screenshots">Screenshots</a> &#xa0; | &#xa0;
+   <a href="#Live Preview">Live Preview</a> &#xa0; | &#xa0;
+   <a href="#Technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#Requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#Starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#License">License</a> &#xa0; | &#xa0;
 </p>
 
 <br>
 
-## :dart: About ##
+## About ##
 
 This is a personal challenge to create a responsive mini Pokedex project using HTML,  CSS, Javascript and data from Poke API.
 
-## :sparkles: Features ##
+## Features ##
 
 Currently up to 1281 Pokémons can be loaded, displaying the image, type, and some of the main details of the selected Pokémon.
 
@@ -93,7 +94,5 @@ This project is under license from MIT. For more details, see the [LICENSE](Lice
 &#xa0;
 
 Made with :heart: by <a href="https://github.com/adilsonb" target="_blank">Adilson Borszcz</a>
-
-
 
 <a href="#top">Back to top</a>
