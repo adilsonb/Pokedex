@@ -1,5 +1,5 @@
 <div align="center" id="top">
-<img alt="Pokedex" src="https://i.imgur.com/BzXQ8d5.png">
+<img alt="Pokedex" src="https://i.imgur.com/JYGs1Vh.gif">
 </div>
 
 <h1 align="center">Pokedex</h1>
@@ -46,7 +46,11 @@ Currently up to 1281 Pokémons can be loaded, displaying the image, type, and so
 
 ![App Screenshot](https://i.imgur.com/PMxSs80.png)
 
-![](https://i.imgur.com/zmrW9NT.gif)
+![App Screenshot](https://i.imgur.com/JYGs1Vh.gif)
+
+## Live Preview ##
+
+You can preview the project here: [Pokedex](https://adilsonb.github.io/pokedex/ "Pokedex")
 
 ## Technologies ##
 
