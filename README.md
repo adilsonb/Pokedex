@@ -1,6 +1,6 @@
-<div align="center" id="top"></div>
-
-![](https://i.imgur.com/zmrW9NT.gif)
+<div align="center" id="top">
+![App Screenshot](https://i.imgur.com/BzXQ8d5.png)
+</div>
 
 <h1 align="center">Pokedex</h1>
 
@@ -45,6 +45,8 @@ Currently up to 1281 Pokémons can be loaded, displaying the image, type, and so
 ![App Screenshot](https://i.imgur.com/BzXQ8d5.png)
 
 ![App Screenshot](https://i.imgur.com/PMxSs80.png)
+
+![](https://i.imgur.com/zmrW9NT.gif)
 
 ## Technologies ##
 
